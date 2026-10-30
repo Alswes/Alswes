@@ -2,7 +2,7 @@
 
 **`Aspiring Software Developer | ADS Student`**
 
-Based in São Paulo, I am a professional transitioning into the IT field, currently pursuing a degree in Software Analysis and Development at Estácio. At 29, I combine my previous professional experience with a deep passion for technology and a continuous learning mindset. I am dedicated to mastering software development and building innovative solutions.
+Based in São Paulo, I am a professional transitioning into the IT field, currently pursuing a degree in Sistem Analysis and Development at Estácio. At 29, I combine my previous professional experience with a deep passion for technology and a continuous learning mindset. I am dedicated to mastering software development and building innovative solutions.
 
   <p aling="left">
       <a href="https://github.com/Alswes?tab=followers">
