@@ -49,3 +49,8 @@ Formulário de contato com validação em tempo real no navegador (JavaScript) e
 
 ---
 
+### 🧪 Testes
+
+Documento meus testes no repositório [pyro-tools-qa](https://github.com/Alswes/pyro-tools-qa): plano de teste, casos de teste e relatórios de bug do Pyro Tools.
+
+
