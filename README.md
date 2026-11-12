@@ -1,8 +1,8 @@
 # 🤖 Wesley Lemos
 
-**`Aspiring Software Developer | ADS Student`**
+**`Estudante de ADS | Foco em Análise de Testes (QA)`**
 
-Based in São Paulo, I am a professional transitioning into the IT field, currently pursuing a degree in Sistem Analysis and Development at Estácio. At 29, I combine my previous professional experience with a deep passion for technology and a continuous learning mindset. I am dedicated to mastering software development and building innovative solutions.
+Moro em Sorocaba, SP, e curso Análise e Desenvolvimento de Sistemas na Estácio. Trabalhei 7 anos no ramo industrial e também atuei na área de compras. Estou no começo da minha jornada em tecnologia: comecei a criar meus primeiros programas recentemente e meu foco é a **Análise de Testes**. Uso meus próprios projetos, como o [Pyro Tools](https://github.com/Alswes/pyro-tools), para praticar o que aprendo.
 
   <p aling="left">
       <a href="https://github.com/Alswes?tab=followers">
@@ -41,22 +41,6 @@ Based in São Paulo, I am a professional transitioning into the IT field, curren
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
 <img 
     align="left" 
