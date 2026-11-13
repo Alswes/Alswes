@@ -16,6 +16,7 @@ Moro em Sorocaba, SP, e curso Análise e Desenvolvimento de Sistemas na Estácio
 
 - **Análise de Testes:** é a área em que quero atuar
 - **Git e GitHub:** versionamento dos meus projetos
+- **Ferramentas para aprender:** Java e Selenium
 - **Prática:** estou começando a aplicar no Pyro Tools o que aprendo sobre testes
 
 ---
